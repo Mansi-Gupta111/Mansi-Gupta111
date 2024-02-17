@@ -1,5 +1,5 @@
 
-![logo](https://github.com/AkashGupta21BCE10306/AkashGupta21BCE10306/blob/main/logo2.png)
+![logo](https://github.com/Mansi-Gupta111/Mansi-Gupta111/blob/main/logo2.png)
 <h1 align="center">Hi 👋, I'm Mansi Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++ and DSA questions**
 
-- 📫 How to reach me **akashgupta17026@gmail.com**
+- 📫 How to reach me **mansigupta2022@vitbhoapl.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
