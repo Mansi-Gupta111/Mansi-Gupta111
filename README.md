@@ -1,7 +1,5 @@
 
 ![logo](https://github.com/Mansi-Gupta111/Mansi-Gupta111/blob/main/logo2.png)
-<h1 align="center">Hi 👋, I'm Mansi Gupta</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mansi+Gupta!;" />
