@@ -5,7 +5,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mansi+Gupta!;" />
 </h1>
+
+<h3 align="center">A passionate developer from India</h3>
 <hr>
+<img align="right" alt="coading" width= "530"; src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+
+
 
 - 🔭 I’m currently working on **My DSA Skills**
 
